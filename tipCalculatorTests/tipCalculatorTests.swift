@@ -2,7 +2,7 @@
 //  tipCalculatorTests.swift
 //  tipCalculatorTests
 //
-//  Created by Kabsa Abdi on 1/5/21.
+//  Created by Kabsa Abdi 
 //
 
 import XCTest
